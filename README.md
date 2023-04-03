@@ -2,14 +2,12 @@
 A full directory of implementation of YOLOv7 and a basic heatmap construction.
 
 - Go to the folder that you downloaded.
-```
 cd path to/deep-sort-tracking-object-detection-heatmap
-```
+
 - Install the dependecies
-```
 pip install -r requirements.txt
 
--This is the link that provide "yolov7-tiny.pt" [weights file]:https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7.pt.
+-This is the link that provide "yolov7-tiny.pt" [weights file]:https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7.pt
 you should add this to your folder.
 
 -This the the link that provide "deep_sort_pytorch" :https://drive.google.com/drive/folders/1kna8eWGrSfzaR6DtNJ8_GchGgPMv3VC8
