@@ -19,7 +19,7 @@ you should unzip it and add into main folder.
 cd path to/deep-sort-tracking-object-detection-heatmap
 
 python deep_sort_tracking_id.py --weights yolov7-tiny.pt  --img-size 640  --source 0 (for you should change the name of .pt file) 
-python deep_sort_tracking_id.py --weights yolov7-tiny.pt  --img-size 1080 --source "mall.mp4" --view-img(for getting a faster visualization you can change the size)
+python deep_sort_tracking_id.py --weights yolov7-tiny.pt  --img-size 640 --source "mall.mp4" --view-img(for getting a faster visualization you can change the size)
 
 - The "detect.py" visualiation starts from the terminal. .
 cd path to/deep-sort-tracking-object-detection-heatmap
