@@ -26,10 +26,16 @@ cd path to/deep-sort-tracking-object-detection-heatmap
 python detect.py --weights yolov7-tiny.pt  --img 640  --source 0
 python detect.py --weights yolov7-tiny.pt  --img-size 640 --source "mall.mp4" --view-img
 
-- The "heatmap.py" is uncompleted. There are few problems because of the output. I will be glad if you want to ask questions in any part or give a tip about the project.
+- The "heatmap.py" visualiation starts from the terminal.
+cd path to/deep-sort-tracking-object-detection-heatmap
+python heatmap.py --weights yolov7-tiny.pt  --source "mall.mp4" --view-img
+
+ I will be glad if you want to ask questions in any part or give a tip about the project.
 
 ![tracking](https://user-images.githubusercontent.com/127952905/229531174-5fd796be-83cd-4dae-9d30-f472c7afdd8f.jpg)
 
 ![detection](https://user-images.githubusercontent.com/127952905/229532478-74d2437c-1a19-4449-92d5-f03e4174da01.jpg)
+
+![heatmap](https://user-images.githubusercontent.com/127952905/230157715-aa765dda-eeae-41a2-b9b0-665b9e89ca59.jpg)
 
 
