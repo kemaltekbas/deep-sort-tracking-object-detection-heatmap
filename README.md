@@ -38,4 +38,7 @@ python heatmap.py --weights yolov7-tiny.pt  --source "mall.mp4" --view-img
 
 ![heatmap](https://user-images.githubusercontent.com/127952905/230157715-aa765dda-eeae-41a2-b9b0-665b9e89ca59.jpg)
 
+CREDIT
 
+https://github.com/MuhammadMoinFaisal
+https://github.com/DoganK01
