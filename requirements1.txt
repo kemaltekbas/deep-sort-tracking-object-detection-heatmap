@@ -1,0 +1,10 @@
+# Usage: pip install -r requirements1.txt
+pandas>=2.0.1
+opencv-python>=4.7.0.72
+--index-url https://download.pytorch.org/whl/cu117 torch torchvision torchaudio
+tqdm>=4.65.0
+matplotlib>=3.7.1
+seaborn>=0.12.2
+scipy>=1.10.1
+easydict>=1.10
+
