@@ -37,6 +37,8 @@ python heatmap.py --weights yolov7-tiny.pt  --source "mall.mp4" --view-img
 ![detection](https://user-images.githubusercontent.com/127952905/229532478-74d2437c-1a19-4449-92d5-f03e4174da01.jpg)
 
 ![heatmap](https://user-images.githubusercontent.com/127952905/230157715-aa765dda-eeae-41a2-b9b0-665b9e89ca59.jpg)
+![heatmap](https://github.com/kemaltekbas/deep-sort-tracking-object-detection-heatmap/assets/127952905/d97ead38-a5a9-4ea0-b74f-a5f999aac86e)
+
 
 CREDIT
 
